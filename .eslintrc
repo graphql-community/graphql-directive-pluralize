@@ -1,0 +1,9 @@
+{
+  "rules": {
+    "import/no-extraneous-dependencies": 0
+  },
+  "extends": "callstack-io",
+  "env": {
+    "jest": true
+  }
+}

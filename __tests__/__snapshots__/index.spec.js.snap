@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`defines initial declaration 1`] = `
+GraphQLDirective {
+  "args": Array [],
+  "astNode": undefined,
+  "description": "Pluralizes a field (string)",
+  "locations": Array [
+    "FIELD_DEFINITION",
+  ],
+  "name": "plural",
+}
+`;
+
+exports[`defines initial declaration 2`] = `
+GraphQLDirective {
+  "args": Array [],
+  "astNode": undefined,
+  "description": "Singularizes a field (string)",
+  "locations": Array [
+    "FIELD_DEFINITION",
+  ],
+  "name": "singular",
+}
+`;
